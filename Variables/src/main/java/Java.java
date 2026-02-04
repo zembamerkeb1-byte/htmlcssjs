@@ -1,9 +1,10 @@
 public class Java {
 
+
     // 1. Add two ints
     int add(int a, int b) {
         return a + b;
-    }
+    }git
 
     // 2. Add three ints
     int add(int a, int b, int c) {
